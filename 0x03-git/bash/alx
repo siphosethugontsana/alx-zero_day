@@ -1,2 +1,2 @@
-#!/bin/bashschool
-h
+#!/bin/bash
+echo "ALX School"
